@@ -1,35 +1,3 @@
-<h1 align="center">
-  ✨ SAINI Txt to HTML Bot 
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+.txt+to+.html+Bot" alt="Typing SVG" />
-</p>
-
----
-
-> 🚫 **Do not remove the credit tag**
-
----
-
-## 📜 Commands
-
-| Command | Description |
-|---------|-------------|
-| `/start` | Start the bot |
-
----
-
-## 🚀 Deployment Process
-
-🎬 **Watch Full Deployment Tutorial:**  
-[![YouTube Video](https://img.shields.io/badge/Watch%20on-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@saini.creator)
-
-### Step-by-Step:
-1. **Fork** the Repository  
-2. **Edit `vars.py`** — Fill in your `API_ID` and `API_HASH`  
-3. **Edit `README.md`** — Change the deploy button links to point to your own fork  
-4. Choose any platform and **Deploy** directly using the buttons below:
 
 ---
 
@@ -49,9 +17,3 @@
 ---
 
 ## 📂 Original Repositories
-
-- 🔗 [nikhilsainiop/Txt-html](https://github.com/nikhilsainiop/Txt-html)
-
----
-
-> 👨‍💻 Created with ❤️ by [@nikhil.saini.khe](https://instagram.com/nikhil.saini.khe)
